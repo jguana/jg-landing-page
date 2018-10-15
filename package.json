@@ -1,8 +1,7 @@
 {
-<<<<<<< HEAD
-  "name": "shopping-list",
+  "name": "landing-page",
   "version": "1.0.0",
-  "description": "Shopping list built with the MERN stack",
+  "description": "landing page built with the MERN stack",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -23,29 +22,3 @@
   },
   "author": "John Kim",
   "license": "MIT"
-=======
-  "name": "jg-landing-page",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "2.0.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
->>>>>>> c7fdae1096d7e4bff0600894369996dfaff7832b
-}
